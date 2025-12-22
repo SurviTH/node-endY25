@@ -1,0 +1,13 @@
+Status Code
+
+200 - OK
+301 - resource moved
+404 - Not Found
+500 - Internal server found
+
+Range Code
+100 - Information Process
+200 - Success Code
+300 - Redirect
+400 - User or Client Error
+500 - Server Error
