@@ -11,3 +11,18 @@ Range Code
 300 - Redirect
 400 - User or Client Error
 500 - Server Error
+
+Package Installer
+- Global Install Package
+    - Nodemon
+- Locally Install Package
+    - lodash
+    - ejs
+
+EJS Explain
+- EJS Views Engine run on the server to display working with html tag.
+
+Struture
+- EJS -> EJS View -> HTML (display)
+
+Partial Templates
